@@ -1,14 +1,18 @@
 h1{
     font-size: 60px;
 }
-/*h3{
-    font-size: 100px;
-}*/
+
 h3 {
     font-size: 100px;
 }
 
 .familiaTexto{
     font-family: "papyrus";
-    font-size: 2em;
+    font-size: 20px;
+    color: #1442e1;
+    text-align: justify;
+}
+
+body{
+    background-color:  #927227;
 }
