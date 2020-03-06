@@ -13,6 +13,24 @@ h3 {
     text-align: justify;
 }
 
-body{
+
+.fondoprincipal{
     background-color:  #927227;
+}
+
+.fondoheaderindex{
+    background-color: green;
+}
+
+.fondoheaderpagina1{
+    background-color: blue;
+}
+
+.imagenfondo{
+    background-image: url(img/banner-eventos-medellin.jpg) ;
+    height: 640px;
+    background-attachment: fixed;
+}
+.textorojo{
+    color: red;
 }
